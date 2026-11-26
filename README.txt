@@ -6,11 +6,11 @@
 - `skills.html` — дағдылар
 - `portfolio.html` — жобалар мен жетістіктер
 - `contact.html` — байланыс
-- `css/style.css` — барлық беттердің дизайны
-- `js/script.js` — мобильді мәзір, тақырып режимі, форма тексеруі
-- `images/profile.jpg` — пайдаланушы ұсынған фотосурет
-- `documents/resume.pdf` — түйіндеме
-- `videos/avatar.mp4` — HeyGen видеосын осы жерге қосу керек
+- `style.css` — барлық беттердің дизайны
+- `script.js` — мобильді мәзір, тақырып режимі, форма тексеруі
+- `profile.jpg` — пайдаланушы ұсынған фотосурет
+- `resume.pdf` — түйіндеме
+- `avatar.mp4` — HeyGen видеосын осы жерге қосу керек
 
 ## Компьютерде іске қосу
 1. MyPortfolio бумасын Visual Studio Code арқылы ашыңыз.
